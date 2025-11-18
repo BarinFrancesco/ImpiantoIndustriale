@@ -1,0 +1,29 @@
+C:\Users\12999355\Desktop\Impianto Industriale\Impianto Industriale\bin\Debug\net7.0\Impianto Industriale.exe
+C:\Users\12999355\Desktop\Impianto Industriale\Impianto Industriale\bin\Debug\net7.0\Impianto Industriale.deps.json
+C:\Users\12999355\Desktop\Impianto Industriale\Impianto Industriale\bin\Debug\net7.0\Impianto Industriale.runtimeconfig.json
+C:\Users\12999355\Desktop\Impianto Industriale\Impianto Industriale\bin\Debug\net7.0\Impianto Industriale.dll
+C:\Users\12999355\Desktop\Impianto Industriale\Impianto Industriale\bin\Debug\net7.0\Impianto Industriale.pdb
+C:\Users\12999355\Desktop\Impianto Industriale\Impianto Industriale\obj\Debug\net7.0\Impianto Industriale.csproj.AssemblyReference.cache
+C:\Users\12999355\Desktop\Impianto Industriale\Impianto Industriale\obj\Debug\net7.0\Impianto Industriale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12999355\Desktop\Impianto Industriale\Impianto Industriale\obj\Debug\net7.0\Impianto Industriale.AssemblyInfoInputs.cache
+C:\Users\12999355\Desktop\Impianto Industriale\Impianto Industriale\obj\Debug\net7.0\Impianto Industriale.AssemblyInfo.cs
+C:\Users\12999355\Desktop\Impianto Industriale\Impianto Industriale\obj\Debug\net7.0\Impianto Industriale.csproj.CoreCompileInputs.cache
+C:\Users\12999355\Desktop\Impianto Industriale\Impianto Industriale\obj\Debug\net7.0\Impianto Industriale.dll
+C:\Users\12999355\Desktop\Impianto Industriale\Impianto Industriale\obj\Debug\net7.0\refint\Impianto Industriale.dll
+C:\Users\12999355\Desktop\Impianto Industriale\Impianto Industriale\obj\Debug\net7.0\Impianto Industriale.pdb
+C:\Users\12999355\Desktop\Impianto Industriale\Impianto Industriale\obj\Debug\net7.0\Impianto Industriale.genruntimeconfig.cache
+C:\Users\12999355\Desktop\Impianto Industriale\Impianto Industriale\obj\Debug\net7.0\ref\Impianto Industriale.dll
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\Impianto Industriale\Impianto Industriale\bin\Debug\net7.0\Impianto Industriale.exe
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\Impianto Industriale\Impianto Industriale\bin\Debug\net7.0\Impianto Industriale.deps.json
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\Impianto Industriale\Impianto Industriale\bin\Debug\net7.0\Impianto Industriale.runtimeconfig.json
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\Impianto Industriale\Impianto Industriale\bin\Debug\net7.0\Impianto Industriale.dll
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\Impianto Industriale\Impianto Industriale\bin\Debug\net7.0\Impianto Industriale.pdb
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\Impianto Industriale\Impianto Industriale\obj\Debug\net7.0\Impianto Industriale.GeneratedMSBuildEditorConfig.editorconfig
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\Impianto Industriale\Impianto Industriale\obj\Debug\net7.0\Impianto Industriale.AssemblyInfoInputs.cache
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\Impianto Industriale\Impianto Industriale\obj\Debug\net7.0\Impianto Industriale.AssemblyInfo.cs
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\Impianto Industriale\Impianto Industriale\obj\Debug\net7.0\Impianto Industriale.csproj.CoreCompileInputs.cache
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\Impianto Industriale\Impianto Industriale\obj\Debug\net7.0\Impianto Industriale.dll
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\Impianto Industriale\Impianto Industriale\obj\Debug\net7.0\refint\Impianto Industriale.dll
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\Impianto Industriale\Impianto Industriale\obj\Debug\net7.0\Impianto Industriale.pdb
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\Impianto Industriale\Impianto Industriale\obj\Debug\net7.0\Impianto Industriale.genruntimeconfig.cache
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\Impianto Industriale\Impianto Industriale\obj\Debug\net7.0\ref\Impianto Industriale.dll

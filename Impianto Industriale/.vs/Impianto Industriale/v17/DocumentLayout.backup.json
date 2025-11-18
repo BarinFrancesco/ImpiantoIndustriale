@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\Impianto Industriale\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{594709DA-979E-46C7-8ADE-CC956A176D3F}|Impianto Industriale\\Impianto Industriale.csproj|g:\\francesco\\x scuola\\superiori\\informatica\\compiti\\impianto industriale\\impianto industriale\\ctermometro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{594709DA-979E-46C7-8ADE-CC956A176D3F}|Impianto Industriale\\Impianto Industriale.csproj|solutionrelative:impianto industriale\\ctermometro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594709DA-979E-46C7-8ADE-CC956A176D3F}|Impianto Industriale\\Impianto Industriale.csproj|g:\\francesco\\x scuola\\superiori\\informatica\\compiti\\impianto industriale\\impianto industriale\\cparticelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{594709DA-979E-46C7-8ADE-CC956A176D3F}|Impianto Industriale\\Impianto Industriale.csproj|solutionrelative:impianto industriale\\cparticelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594709DA-979E-46C7-8ADE-CC956A176D3F}|Impianto Industriale\\Impianto Industriale.csproj|g:\\francesco\\x scuola\\superiori\\informatica\\compiti\\impianto industriale\\impianto industriale\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{594709DA-979E-46C7-8ADE-CC956A176D3F}|Impianto Industriale\\Impianto Industriale.csproj|solutionrelative:impianto industriale\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594709DA-979E-46C7-8ADE-CC956A176D3F}|Impianto Industriale\\Impianto Industriale.csproj|g:\\francesco\\x scuola\\superiori\\informatica\\compiti\\impianto industriale\\impianto industriale\\cargomenti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{594709DA-979E-46C7-8ADE-CC956A176D3F}|Impianto Industriale\\Impianto Industriale.csproj|solutionrelative:impianto industriale\\cargomenti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CArgomenti.cs",
+              "DocumentMoniker": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\Impianto Industriale\\Impianto Industriale\\CArgomenti.cs",
+              "RelativeDocumentMoniker": "Impianto Industriale\\CArgomenti.cs",
+              "ToolTip": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\Impianto Industriale\\Impianto Industriale\\CArgomenti.cs",
+              "RelativeToolTip": "Impianto Industriale\\CArgomenti.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T17:48:34.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cparticelle.cs",
+              "DocumentMoniker": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\Impianto Industriale\\Impianto Industriale\\Cparticelle.cs",
+              "RelativeDocumentMoniker": "Impianto Industriale\\Cparticelle.cs",
+              "ToolTip": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\Impianto Industriale\\Impianto Industriale\\Cparticelle.cs",
+              "RelativeToolTip": "Impianto Industriale\\Cparticelle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T17:29:25.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CTermometro.cs",
+              "DocumentMoniker": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\Impianto Industriale\\Impianto Industriale\\CTermometro.cs",
+              "RelativeDocumentMoniker": "Impianto Industriale\\CTermometro.cs",
+              "ToolTip": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\Impianto Industriale\\Impianto Industriale\\CTermometro.cs",
+              "RelativeToolTip": "Impianto Industriale\\CTermometro.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T17:29:18.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\Impianto Industriale\\Impianto Industriale\\Program.cs",
+              "RelativeDocumentMoniker": "Impianto Industriale\\Program.cs",
+              "ToolTip": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\Impianto Industriale\\Impianto Industriale\\Program.cs",
+              "RelativeToolTip": "Impianto Industriale\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwB4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T17:12:25.069Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
